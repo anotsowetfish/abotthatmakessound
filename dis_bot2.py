@@ -61,4 +61,4 @@ async def playskip(ctx,message):
 
 
 
-bot.run('OTExNjQ2MjkxNjUyNjY5NDkx.YZkaxQ.QuyGBsxcIQ-nInVpfCdqwhS9x2E')
+bot.run('')
